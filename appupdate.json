@@ -1,7 +1,7 @@
 {
   "title": "App Update!",
   "message": "This is new Feature Update",
-  "download": "https://play.google.com/store/apps/details?id=com.kzl.a2d3dmyanmar",
+  "download": "",
   "playstore": "com.kzl.a2d3dmyanmar",
   "uninstall":false,
   "what": {
